@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahaveer
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently completing my Masters at Boston University - Masters in AI and am working on two really cool projects under guidance of prof.Iddo Drori
-- 💞️ I’m actively looking for Summer Internship 2023 (Full Time)
+- 🌱 I’m completing my Masters in Artificial Intelligence at Boston University. Graduating January 12, 2024.
+- 💞️ I’m actively looking for Full Time Positions in ML/AI/SDE starting in February, 2024.
 - 📫 How to reach me? --> mahaveer@bu.edu
 
 <!---
